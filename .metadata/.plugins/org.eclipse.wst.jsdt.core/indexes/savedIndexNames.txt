@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\Vitor Hugo\Documents\maven-java-alura\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1782057473.index
+3699470869.index
+1136731903.index
+2835592237.index
+3104425599.index
